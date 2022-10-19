@@ -1,0 +1,49 @@
+@font-face {
+    font-family: burbank;
+    src: url(../burbank.otf) format('opentype');
+}
+
+nav {
+    border: 2px solid black;
+    text-align: center;
+    display:block;
+    float: left;
+    width: 75%;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+    position: fixed;
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+nav ul {
+    display:block;
+    padding-left: 20%;
+    
+}
+nav ul li {
+    
+    float:left;
+    display:block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 3px solid darkgreen;
+    background-color: green;
+    padding: 1%;
+    
+}
+
+nav ul li a:visited {
+    color: white;
+    font-family: burbank;
+}
+
+
+
+
+
+
+
+
+
