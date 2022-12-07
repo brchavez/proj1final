@@ -30,7 +30,7 @@ h5 {
     padding: 2%;
 }
 
-#padding {
+.padding {
     margin-top: 1%;
     margin-bottom: 1%;
     margin-left: 33%;
@@ -72,13 +72,13 @@ h5 {
     background-color: antiquewhite;
 }
 
-#lefttoright {
+.lefttoright {
     padding-top: 2%;
     padding-bottom: 2%;
     border-bottom: 0.5em dashed black;
 }
 
-#lefttoright h1 {
+.lefttoright h1 {
     margin-left:25%;
     margin-right:2em;
     padding-right: 0.3em;
@@ -91,7 +91,7 @@ h5 {
     
 }
 
-#lefttoright h2 {
+.lefttoright h2 {
     margin-left:25%;
     margin-right:1%;
     padding-right: 0.3em;
@@ -104,27 +104,27 @@ h5 {
     max-width: 20%;
 }
 
-#lefttoright img {
+.lefttoright img {
     width: 30%;
     height: 20%;
     display: inline-block;
     list-style: upper-roman;
 }
 
-#lefttoright ul li img {
+.lefttoright ul li img {
     width: 10%;
     height: 10%;
     list-style: upper-roman;
 }
 
-#lefttoright h4 {
+.lefttoright h4 {
     vertical-align:top;
     margin-left: 25%;
     margin-right: 1%;
     display: inline-block;
     list-style: upper-roman;
 }
-#lefttoright ul {
+.lefttoright ul {
     width:50%;
     border-left: 5px solid blue;
     padding-left: 2%;
@@ -132,13 +132,13 @@ h5 {
     list-style: upper-roman;
 }
 
-#lefttoright ul li {
+.lefttoright ul li {
     margin-top: 4px;
     margin-bottom: 4px;
 }
 
 
-#textblock {
+.textblock {
     border: 5px solid black;
     width: 25%;
     padding:20px;
